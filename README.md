@@ -1,2 +1,2 @@
 # Python-for-Data-Science
-This includes all the tutorials in a form of code along with comments for python.
+Basic to intermediate level of code in python for data science.
