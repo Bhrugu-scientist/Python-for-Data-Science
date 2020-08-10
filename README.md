@@ -11,4 +11,4 @@ The code is kind of self explanatory and can be used as a reference or can be us
 
 Part 2:
 
-MACHINE LEARNING
+- MACHINE LEARNING
