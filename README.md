@@ -1,7 +1,7 @@
 # Python-for-Data-Science
 Basic to intermediate level of code in python for data science.
 
-Part 1 consists of following
+Part 1 consists of following:
 - Exploratory Data Analysis
 - Data Visualization
 - How to use NumPy, Pandas, Matplotlib, Seaborn.
