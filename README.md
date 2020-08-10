@@ -6,4 +6,4 @@ Part 1 consists of following:
 - Data Visualization
 - How to use NumPy, Pandas, Matplotlib, Seaborn.
 
-The code is kind of self explanatory and can be used as a reference or brush up the concepts whenever required.
+The code is kind of self explanatory and can be used as a reference or can be used to brush up the concepts whenever required.
